@@ -3,7 +3,7 @@
     session_start();
     require_once 'connect.php';
     $idquery = $_POST['idq'];
-    $profilequery = mysqli_query($connect,"SELECT * FROM `users` WHERE `ID` = '$idquery'");
+    $profilequery = mysqli_query($connect,"SELECT * FROM `users` WHERE `login` = '$idquery'");
     if (mysqli_num_rows($profilequery) > 0) {
         //Успешная авторизация
         $userb=mysqli_fetch_assoc($profilequery);

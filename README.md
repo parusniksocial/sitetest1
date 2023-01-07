@@ -15,7 +15,7 @@ Welcome to official Parusnik SiteTest1 repo.
 5. Upload to Remote Host
 ## Customizing
 ### Customizing with DefaultSettings.php
-1. Edit customization settings in DefaultSettings.php
+1. Edit customization settings in DefaultSettings.php(beta)
 ### Customizing with CSS
 1. Open css/main.css and css/gd.css
 2. Edit CSS

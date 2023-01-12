@@ -8,7 +8,7 @@
 </head>
 <body>
 <form class="loginform" action="groups/groupwatch.php" method="post">
-		<label>ID Группы</label>
+		<label>Название темы</label>
 		<input type="text" name="idq" placeholder="ID"><BR><BR>
 		<button type="submit">Искать</button>
 		<?php

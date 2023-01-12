@@ -15,6 +15,10 @@
 <p>|</p>
 <a href="search.php">  Поиск страниц  </a><BR><BR>
 <p>|</p>
+<a href="include/testing/crgroup.php">  Создать тему  </a><BR><BR>
+<p>|</p>
+<a href="include/testing/groupsearch.php">  Найти тему  </a><BR><BR>
+<p>|</p>
 
 </body>
 </html>

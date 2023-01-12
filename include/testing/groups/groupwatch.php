@@ -15,11 +15,7 @@
 <form>
     <h2>
         <?php
-        print('ID Группы: ');
-        print($group['groupID']);
-        print(" ID Админа: " . $group['adminID']);
-        print('Количество участников: ');
-        print($group['userscount']);
+        print($group['name']);
         ?>
     </h2>
 </form>

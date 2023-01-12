@@ -3,8 +3,5 @@
     require_once "../../DefaultSettings.php";
     require_once "../../connect.php";
     $groupname = $_POST['groupname'];
-    $adminuserdata = $_SESSION['user'];
-    $adminuserid = $adminuserdata['id'];
-    $foundercount = 1;
-    mysqli_query($connect, "INSERT INTO `groups` (`groupID`,`adminID`,`groupname`,`userscount`) VALUES (NULL,'$adminuserid', '$groupname','$foundercount')");
+    mysqli_query($connect, "INSERT INTO `groupnew` (`groupID`,`groupname`) VALUES (NULL,'$groupname')");
 ?>

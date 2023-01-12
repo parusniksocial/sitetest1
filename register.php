@@ -6,6 +6,7 @@
 <head>
 	<title>Логин</title>
 	<link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">

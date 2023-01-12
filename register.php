@@ -5,7 +5,6 @@
 <html>
 <head>
 	<title>Логин</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" href="bootstrap.css">
 </head>
 <body>

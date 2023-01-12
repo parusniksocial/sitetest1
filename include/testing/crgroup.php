@@ -17,23 +17,23 @@
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link" href="index.php">Главная страница
+          <a class="nav-link" href="../../index.php">Главная страница
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="login.php">Вход</a>
+          <a class="nav-link" href="../../login.php">Вход</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="register.php">Регистрация</a>
+          <a class="nav-link" href="../../register.php">Регистрация</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="myprofile.php">Моя страница</a>
+          <a class="nav-link" href="../../myprofile.php">Моя страница</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="include/testing/groupsearch.php">Найти тему</a>
+          <a class="nav-link" href="groupsearch.php">Найти тему</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="include/testing/crgroup.php">Создать тему</a>
+          <a class="nav-link" href="crgroup.php">Создать тему</a>
         </li>
         
       </ul>

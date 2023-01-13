@@ -42,15 +42,15 @@
 </nav>
 	<form class="loginform" action="include/registercore.php" method="post">
 		<label>Имя, фамилия</label>
-		<input type="text" name="realname" placeholder="Введите имя и фамилию"><BR><BR>
+		<input type="text" name="realname" class="form-control" placeholder="" id="inputDefault"><BR><BR>
 		<label>Логин</label>
-		<input type="text" name="login" placeholder="Введите логин"><BR><BR>
+		<input type="text" name="login "class="form-control" placeholder="Введите логин" id="inputDefault"><BR><BR>
 		<label>Почта</label>
-		<input type="email" name="email" placeholder="Введите E-Mail адрес"><BR><BR>
+		<input type="email" name="email" class="form-control" placeholder="Введите почту" id="inputDefault"><BR><BR>
 		<label>Пароль</label>
 		<input type="password" name="password" placeholder="Введите пароль"><BR><BR>
 		<label>Подтверждение пароля</label>
-		<input type="password" name="password_confirm" placeholder="Подтвердите пароль"><BR><BR>
+		<<input type="password" name="password_confirm" placeholder="Подтвердите пароль"><BR><BR>
 		<button type="submit" class="btn btn-primary">Зарегистрироваться</button>
 		<p>
 			У вас уже есть аккаунт? - <a href="login.php">войдите!</a>

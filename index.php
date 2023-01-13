@@ -1,8 +1,7 @@
 <html>
 <head>
 	<title>Добро пожаловать на ПАРУСНИК</title>
-	<link rel="stylesheet" href="bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" href="min.css">
 </head>
 <body>
 	<a href="index.php">

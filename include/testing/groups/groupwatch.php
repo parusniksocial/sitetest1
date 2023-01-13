@@ -11,7 +11,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Просмотр темы</title>
     <link rel="stylesheet" href="../../../bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../../css/main.css">
 </head>
 <body>
 <form>

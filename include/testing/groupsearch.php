@@ -44,7 +44,7 @@
 <form class="loginform" action="groups/groupwatch.php" method="post">
 		<label>Название темы</label>
 		<input type="text" name="idq" placeholder="ID"><BR><BR>
-		<button type="submit">Искать</button>
+		<button type="submit" class="btn btn-primary">Найти тему</button>
 		<?php
 			if ($_SESSION['message']) {
 				echo '<p class="msg"> ' . $_SESSION['message'] . '</p>';

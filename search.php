@@ -44,7 +44,7 @@ session_start();
 	<form class="loginform" action="include/otherprofile.php" method="post">
 		<label>Логин</label>
 		<input type="text" name="idq" placeholder="ID"><BR><BR>
-		<button type="submit">Поиск по логину</button>
+		<button type="submit" class="btn btn-primary">Найти пользователя</button>
 		<?php
 			if ($_SESSION['message']) {
 				echo '<p class="msg"> ' . $_SESSION['message'] . '</p>';

@@ -46,7 +46,7 @@ session_start();
 		<input type="text" name="loginh" placeholder="Введите логин"><BR><BR>
 		<label>Пароль</label>
 		<input type="password" name="passwordh" placeholder="Введите пароль"><BR><BR>
-		<button type="submit">Войти</button>
+		<button type="button" class="btn btn-primary">Войти</button>
 		<p>
 			У вас нет аккаунта? - <a href="register.php">зарегистрируйтесь!</a>
 		</p>

@@ -44,7 +44,7 @@
 <form class="loginform" action="groups/creategroup.php" method="post">
 	<label>Название темы</label>
 	<input type="text" name="groupname" placeholder="Название"><BR><BR>
-	<button type="submit" >Создать тему</button>
+	<button type="submit" class="btn btn-primary">Создать тему</button>
 </form>
 </body>
 </html>

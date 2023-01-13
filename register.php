@@ -52,7 +52,7 @@
 		<input type="password" name="password" placeholder="Введите пароль"><BR><BR>
 		<label>Подтверждение пароля</label>
 		<input type="password" name="password_confirm" placeholder="Подтвердите пароль"><BR><BR>
-		<button type="submit" >Зарегистрироватся</button>
+		<button type="submit" class="btn btn-primary">Зарегистрироваться</button>
 		<p>
 			У вас уже есть аккаунт? - <a href="login.php">войдите!</a>
 		</p>

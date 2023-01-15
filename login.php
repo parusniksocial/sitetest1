@@ -6,6 +6,18 @@ session_start();
 <head>
 	<title>Логин</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+  <style>
+    .loginform {
+      display:flex;
+	align-items: center;
+	justify-content: center;
+    }
+    #loginform {
+      display:flex;
+	align-items: center;
+	justify-content: center;
+    }
+  </style>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">

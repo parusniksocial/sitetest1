@@ -3,7 +3,7 @@
 	<title>Добро пожаловать на ПАРУСНИК</title>
 	<link rel="stylesheet" href="min.css">
 </head>
-<body>
+<body style="text-align:center">
 	<a href="index.php">
 	
 	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">

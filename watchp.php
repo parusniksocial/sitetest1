@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="bootstrap.css">
     <title>Просмотр страницы пользователя - ПАРУСНИК</title>
 </head>
-<body>
+<body style="text-align:center">
 <a href="index.php">
     <img src="logo.jpg" alt="Парус" width="400" height="400">
 </a>

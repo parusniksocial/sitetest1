@@ -1,5 +1,6 @@
 # Parusnik - new era of social networking!
 Welcome to official Parusnik SiteTest1 repo.
+![Parusnik LOGO](https://raw.githubusercontent.com/parusniksocial/sitetest1/master/PLOGO.png)
 # Getting Started
 ## Installing
 ### LocalHost
